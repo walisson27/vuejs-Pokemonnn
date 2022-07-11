@@ -12,6 +12,16 @@
   
 </p>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Vue.js
+- VUE ROUTER
+- Animate.css
+- Bootstrap
+
+
 <br>
 
 ## 💻 Instalação
