@@ -17,10 +17,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Vue.js
-- VUE ROUTER
+- VueJS
+- Vue Router
 - Animate.css
 - Bootstrap
+- Utilizando Api [PokéAPI](https://pokeapi.co/)
 
 
 <br>
